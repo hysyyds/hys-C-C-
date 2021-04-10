@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="递归反转字符.c">
+    <ClCompile Include="C:\Users\hongyan\Desktop\作业通用.cpp">
       <Filter>头文件\源文件</Filter>
     </ClCompile>
   </ItemGroup>
